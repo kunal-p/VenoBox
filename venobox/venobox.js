@@ -251,8 +251,8 @@
                     $('.vbox-next').on('click', function(){
                         navigateGall(thenext);
                     });
-                    
-                    return false;
+
+                    return;
 
                   }); // click
 
